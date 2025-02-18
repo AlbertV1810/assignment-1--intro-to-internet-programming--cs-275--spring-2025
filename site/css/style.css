@@ -37,6 +37,11 @@ nav ul li{
     margin: 0 10px;
 }
 
+nav a{
+    color: white;
+    font-weight: bold;
+}
+
 section{
     padding: 50px;
     margin-top: 60px;
